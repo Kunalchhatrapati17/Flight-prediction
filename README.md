@@ -13,8 +13,9 @@
 # 5. We Deployed the application on an EC-2 instance cluster with a technology stack that included React js, AWS-EMR, S3 Bucket, EC-2 instances, and PySpark and extracted data using Apache Spark, and Hadoop.
 
 # Steps to Run the project:-
-# 1. First, make sure that you have installed Node.js and npm(Node Package Manager) installed on your computer. You can download them from the official Node.js website:- https://nodejs.org/en
-# 2. Setup the path for desired React js file on the terminal and navigate to it.
-# 3. Start Development Server by running the React app, using the following command on to the terminal:- npm start
-# 4. To Access the React Application, you access the application by opening a web browser and navigate it to http://localhost:3000/ and by clicking on this link it will be redirected to the respected URL.
+# 1. Before running this project combine all the node_modules into one file and name it node_modules.
+# 2. First, make sure that you have installed Node.js and npm(Node Package Manager) installed on your computer. You can download them from the official Node.js website:- https://nodejs.org/en
+# 3. Setup the path for desired React js file on the terminal and navigate to it.
+# 4. Start Development Server by running the React app, using the following command on to the terminal:- npm start
+# 5. To Access the React Application, you access the application by opening a web browser and navigating it to http://localhost:3000/ and by clicking on this link it will be redirected to the respected URL.
 
