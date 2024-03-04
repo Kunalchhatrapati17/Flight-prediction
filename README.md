@@ -2,7 +2,7 @@
 
 # Descirption of the project:-
 1. For this project we took a dataset from Kaggle here is the link for the same where you can download the dataset:-
-2. https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022?select=Combined_Flights_2018.csv
+https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022?select=Combined_Flights_2018.csv
 
 # Overview of the project:-
 In this project, our aim was to develop a Web-Application that predicts Flight Data and identify factors affecting flight delays, based on Cancellations and delays for each airline. Things we did in this project were:-
